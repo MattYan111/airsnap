@@ -1,5 +1,6 @@
 AirSnap.app/
 ContinuityCapture.app/
+*.zip
 *.log
 .DS_Store
 .AppleDouble
